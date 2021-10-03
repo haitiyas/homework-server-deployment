@@ -10,5 +10,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12
         with:
           heroku_api_key: ${{ secrets.HEROKU_APIKEY }}
-          heroku_app_name: "polar-shelf-24854"
+          heroku_app_name: "radiant-refuge-93347"
           heroku_email: "tiyas_ch@yahoo.co.id"
