@@ -5,4 +5,4 @@ build:
     - go
 
 run:
-  web: last-homework
+  web: homework-server-deployment
